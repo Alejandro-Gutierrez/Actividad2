@@ -1,0 +1,74 @@
+#parrafo{
+    display: inline-block;
+    border:1px solid red;
+}
+
+#container{
+    border:1px solid red;
+    float: right;
+    padding: 1em;
+    margin-right: 2em;
+    
+}
+
+
+
+
+#parrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    width: 700px;
+    border:1px solid red;
+    padding: 1em 1em 5.5em 1em;
+    margin-left: 2em; 
+    
+}
+
+#subtitulo p{
+    margin: 0em 0em 1em 0em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#titulo{
+    margin: 1em 2em 2em 2em;
+    border:1px solid red;
+}
+
+body{
+    border:1px solid red;
+    width: 1060px;
+    margin-left: 10em;
+}
+
+
+#text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:1px solid red;
+    margin: 1em 2em 1em 2em;
+    padding: 1em;
+}
+
+#Enlace{
+    margin: 1em 2em 1em 2em;
+   
+
+}
+
+#Enlace p{
+   
+    text-align: center;
+    
+}
+
+#Enlace p a{
+    text-decoration: none;
+    color: black;
+}
+
+#Enlace p a:hover{
+    
+    padding: 0em 4em;
+    background: green;
+    color:white;
+}
